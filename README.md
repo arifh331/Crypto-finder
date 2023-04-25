@@ -1,3 +1,11 @@
+# What does this App do?
+What this App does is allow the user to find the dollar conversion value of various 
+cryptocurrency and display this information in a visually pleasing manner. The user can 
+also search for various crypto currency.
+
+# Dependencies
+The dependencies are Axios, Jest, React, Web-Vitals
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
